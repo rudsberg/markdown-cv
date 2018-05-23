@@ -141,8 +141,17 @@ SweNUG, Göteborg
 `2011`
 SweNUG Blixten, Göteborg
 
+
 ### Intressen
 Soul, bordtennis och open source
+
+
+<!-- ### Footer
+Dotnet Mentor Väst AB
+Ekelundsgatan 1	0707-493603
+411 18 Göteborg
+mikael.egner@dotnetmentor.se
+ -->
 
 
 
