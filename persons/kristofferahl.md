@@ -4,11 +4,71 @@ title: Kristoffer Ahl CV
 ---
 # Kristoffer Ahl
 
+##### Kort Beskrivning
+Kristoffer är en erfaren system- och gränssnittsutvecklare med hög kompetens och stor bredd. Han är driftig, strukturerad, ansvarsfull och mycket engagerad. Kristoffer trivs bäst i öppna och framåttänkande team och har lätt för att tillgodogöra sig ny kunskap. 
+Kristoffer brinner för att leverera bra kvalitet och använder olika former av automatiserad testning för att åstadkomma kvalitet (enhetstest, BDD)
+Kristoffer är mest känd inom .Net-världen för sitt säkerhetsramverk Fluent Security för ASP.Net MVC http://www.fluentsecurity.net/
+Kristoffer är engagerad i utvecklargrupper som Alt.Net och GOSA (Gothenburg Open Source Alliance)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### Kompetens 
+*Användbarhet och tillgänglighet  
+*ASP.NET 
+*ASP.NET MVC
+*Behavior Driven Development (BDD)
+*C# 
+*Cascading Style Sheets (CSS)
+*Continuous Integration 
+*CQRS och Event Sourcing
+*Cruise Control .NET 
+*Domain Driven Design 
+*Enhetstestning
+*Git 
+*Gränssnittsutveckling och design HTML
+*Integrationstesting 
+*Javascript 
+*jQuery
+*Kanban 
+*MS Test 
+*MSBuild
+*MSpec 
+*NAnt 
+*NHibernate
+*NUnit 
+*Open Source 
+*Rake
+*Raven DB 
+*Scrum 
+*Selenium 
+*Webdriver
+*SpecFlow 
+*SQLite 
+*Subversion 
+*Team City
+*Test Driven Development 
+*Team Foundation Server (TFS)
+*T-SQL 
+*SQL Server 
+*WatiN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Currently
@@ -64,6 +124,11 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
 ### Patents
 
