@@ -3,8 +3,6 @@ layout: cv
 title: Kristoffer Ahl CV
 ---
 # Kristoffer Ahl
-
-##### Kort Beskrivning
 Kristoffer är en erfaren system- och gränssnittsutvecklare med hög kompetens och stor bredd. Han är driftig, strukturerad, ansvarsfull och mycket engagerad. Kristoffer trivs bäst i öppna och framåttänkande team och har lätt för att tillgodogöra sig ny kunskap. 
 Kristoffer brinner för att leverera bra kvalitet och använder olika former av automatiserad testning för att åstadkomma kvalitet (enhetstest, BDD)
 Kristoffer är mest känd inom .Net-världen för sitt säkerhetsramverk Fluent Security för ASP.Net MVC http://www.fluentsecurity.net/
@@ -50,6 +48,26 @@ Kristoffer är engagerad i utvecklargrupper som Alt.Net och GOSA (Gothenburg Ope
 *SQL Server 
 *WatiN
 
+### Utbildningar
+`1999 - 2000`
+Digital Musikdistribution, RockCity, Hultsfred
+
+### Anställningar 
+`2010 -`
+__Dotnet Mentor som systemutvecklare/arkitekt__
+Kristoffer började 2010 som konsult hos Dotnet Mentor. Kristoffer har ansvarat för framtagande av test- och  byggmiljöer. Kristoffer har varit mycket drivande i utveckling av Mobilrabatten och Förening Online.
+
+`2006 - 2010`
+__Spinit som Systemutvecklare__
+Kristoffer började år 2006 som konsult hos Spinit AB i Göteborg där han fram till hösten 2010 arbetade med system- och gränssnittsutveckling. Vidare hade han uppgiften att koordinera systemutvecklare och gränssnittutvecklare med målet att förbättra kommunikationen internt samt att öka kvalitén i Spinit's produktioner enligt rådande standarder för webben.
+
+`2001 - 2006`
+__Musiclink som Webbutvecklare__
+Vid en tidigare anställning hos Musiclink AB i Hultsfred arbetade Kristoffer även som grafisk designer och projektsamordnare. Under hans tid där planerade och genomförde Kristoffer ett antal föreläsningar för utbildningen Digital Mediadistribution på området webbutveckling. Han arbetade med utveckling i Adobe/Macromedia Flash för både webb och CD-rom och drev utvecklingen av webbtvtjänsten Hultsfred.TV. Sedan 2005 fokuserades arbetet kring systemutveckling och gränssnittsutveckling med webbstandarder, tillgänglighet och användbarhet i fokus.
+
+`2000 - 2001`
+__Carbon Solutions som Webbutvecklare__
+Carbon Solutions var ett företag som tidigt specialiserat sig på databasdrivna applikationer för webben. Under Kristoffers tid hos dem (2000-2001) arbetade han i ett team av programmerare med systemutveckling och databasmodellering.
 
 
 
@@ -68,88 +86,4 @@ Kristoffer är engagerad i utvecklargrupper som Alt.Net och GOSA (Gothenburg Ope
 
 
 
-
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
