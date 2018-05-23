@@ -198,9 +198,13 @@ img {
     margin-top: 40px;
 }
 
-footer {
-    display: none;
-}
+ footer {
+        display:block;
+        bottom:-5mm;
+        position:fixed;
+        font-size:11px;
+        text-align: center !important;
+    }
 
 #content {
     margin:0 auto;
@@ -218,11 +222,5 @@ footer {
         height: 297mm;
     }
 
-    footer {
-        display:block;
-        bottom:-5mm;
-        position:fixed;
-        font-size:11px;
-        text-align: center !important;
-    }
+   
 }
