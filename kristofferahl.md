@@ -13,44 +13,44 @@ Kristoffer är engagerad i utvecklargrupper som Alt.Net och GOSA (Gothenburg Ope
 
 
 ### Kompetens 
-*Användbarhet och tillgänglighet  
-*ASP.NET 
-*ASP.NET MVC
-*Behavior Driven Development (BDD)
-*C# 
-*Cascading Style Sheets (CSS)
-*Continuous Integration 
-*CQRS och Event Sourcing
-*Cruise Control .NET 
-*Domain Driven Design 
-*Enhetstestning
-*Git 
-*Gränssnittsutveckling och design HTML
-*Integrationstesting 
-*Javascript 
-*jQuery
-*Kanban 
-*MS Test 
-*MSBuild
-*MSpec 
-*NAnt 
-*NHibernate
-*NUnit 
-*Open Source 
-*Rake
-*Raven DB 
-*Scrum 
-*Selenium 
-*Webdriver
-*SpecFlow 
-*SQLite 
-*Subversion 
-*Team City
-*Test Driven Development 
-*Team Foundation Server (TFS)
-*T-SQL 
-*SQL Server 
-*WatiN
+* Användbarhet och tillgänglighet  
+* ASP.NET 
+* ASP.NET MVC
+* Behavior Driven Development (BDD)
+* C# 
+* Cascading Style Sheets (CSS)
+* Continuous Integration 
+* CQRS och Event Sourcing
+* Cruise Control .NET 
+* Domain Driven Design 
+* Enhetstestning
+* Git 
+* Gränssnittsutveckling och design HTML
+* Integrationstesting 
+* Javascript 
+* jQuery
+* Kanban 
+* MS Test 
+* MSBuild
+* MSpec 
+* NAnt 
+* NHibernate
+* NUnit 
+* Open Source 
+* Rake
+* Raven DB 
+* Scrum 
+* Selenium 
+* Webdriver
+* SpecFlow 
+* SQLite 
+* Subversion 
+* Team City
+* Test Driven Development 
+* Team Foundation Server (TFS)
+* T-SQL 
+* SQL Server 
+* WatiN
 
 
 ### Utbildningar
