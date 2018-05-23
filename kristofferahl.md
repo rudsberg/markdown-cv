@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kristoffer Ahl CV
+title: Kristoffer Ahl
 ---
 
 ![Dotnet Mentor Logo](img/dotnet.png)
