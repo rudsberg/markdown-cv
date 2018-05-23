@@ -2,8 +2,8 @@
 layout: cv
 title: HEJ Rudsberg CV
 ---
-# HEJ Rudsberg
-Fotbollsälskare, hejhej, Cambridge professor.
+# Joel Rudsberg 1
+Hejhej 1, Hejhej 2, Hejhej 3.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
