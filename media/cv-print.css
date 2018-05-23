@@ -220,7 +220,7 @@ footer {
 
     footer {
         display:block;
-        bottom:-17mm;
+        bottom:0;
         position:fixed;
         font-size:11px;
         text-align: center !important;
