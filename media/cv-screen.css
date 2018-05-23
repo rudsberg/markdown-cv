@@ -1,8 +1,3 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -64,7 +59,7 @@ body {
 p {
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.7em;
+	margin-bottom: 1.3em;
 	margin-right: 0;
 	width: 65%;
 }
@@ -79,7 +74,8 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+    left: -20%;
+    font-size: 90%;
 }
 
 
@@ -143,12 +139,14 @@ h2 {
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 1.25em;
 	line-height: 2em; 
 	position: relative;
-	top: 1.7em;
+    top: 1.7em;
 	text-align: right;
-	width: 20%;
+    width: 20%;
+    font-weight: bold;
+    text-align: left;
 }
 
 a {
@@ -187,8 +185,43 @@ strong {
 }
 
 
+h1 + p {
+    margin-top: 25px;
+}
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+#footer, #footer + p {
+    display: none;
+}
+
+
+img {
+    margin-top: 40px;
+}
+
+footer {
+    display: none;
+}
+
+#content {
+    margin:0 auto;
+}
+
+@page {
+    size: A4;
+    margin: 11mm 17mm 17mm 17mm;
+}
+
+@media print {
+    html, body {
+        width: 210mm;
+        height: 297mm;
+    }
+
+    footer {
+        display:block;
+        bottom:0;
+        position:fixed;
+        font-size:11px;
+        text-align: center !important;
+    }
+}
