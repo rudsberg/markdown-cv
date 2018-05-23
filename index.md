@@ -3,7 +3,7 @@ layout: cv
 title: Joel Rudsberg CV
 ---
 # Joel Rudsberg
-Physicist, Mathematician, Cambridge professor.
+Fotbollsälskare, hejhej, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
