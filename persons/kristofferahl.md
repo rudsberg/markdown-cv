@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Joel Rudsberg CV
+title: Kristoffer Ahl CV
 ---
-# Joel Rudsberg 2
-Hejhej1, Hejhej2, Hejhej3.
+# Kristoffer Ahl
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
