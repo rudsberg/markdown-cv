@@ -2,7 +2,7 @@
 layout: cv
 title: Joel Rudsberg CV
 ---
-# Isaac Newton
+# Joel Rudsberg
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
