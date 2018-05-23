@@ -147,11 +147,8 @@ Soul, bordtennis och open source
 
 
 <!-- ### Footer
-Dotnet Mentor Väst AB
-Ekelundsgatan 1	0707-493603
-411 18 Göteborg
-mikael.egner@dotnetmentor.se
- -->
+
+Dotnet Mentor Väst AB | Ekelundsgatan 1, 411 18 Göteborg | 0707-493603 | mikael.egner@dotnetmentor.se -->
 
 
 
