@@ -26,6 +26,32 @@ Kristoffer är engagerad i utvecklargrupper som Alt.Net och GOSA (Gothenburg Ope
 * Enhetstestning
 * Git 
 * Gränssnittsutveckling och design HTML
+* Integrationstesting 
+* Javascript 
+* jQuery
+* Kanban 
+* MS Test 
+* MSBuild
+* MSpec 
+* NAnt 
+* NHibernate
+* NUnit 
+* Open Source 
+* Rake
+* Raven DB 
+* Scrum 
+* Selenium 
+* Webdriver
+* SpecFlow 
+* SQLite 
+* Subversion 
+* Team City
+* Test Driven Development 
+* Team Foundation Server (TFS)
+* T-SQL 
+* SQL Server 
+* WatiN
+
 
 ### Utbildningar
 `1999 - 2000`
