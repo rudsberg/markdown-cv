@@ -209,7 +209,7 @@ footer {
 
 @page {
     size: A4;
-    margin: 11mm 17mm 17mm 17mm;
+    margin: 11mm 17mm 24mm 17mm;
 }
 
 @media print {
@@ -220,7 +220,7 @@ footer {
 
     footer {
         display:block;
-        bottom:0;
+        bottom:-17mm;
         position:fixed;
         font-size:11px;
         text-align: center !important;
