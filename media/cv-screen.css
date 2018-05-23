@@ -199,7 +199,12 @@ img {
 }
 
 footer {
-    display: none;
+	display:block;
+        bottom:0;
+        position:fixed;
+        font-size:11px;
+        text-align: center !important;
+    /*display: none;*/
 }
 
 #content {
